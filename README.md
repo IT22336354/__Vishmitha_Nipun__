@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Black_Ant**
 
-- A passionate frontend developer from **Sri Lanka**
+- A passionate frontend developer from  **Sri Lanka**
 
 </td>
 <td width="50%" align="center">
